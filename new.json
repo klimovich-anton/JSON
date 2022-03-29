@@ -1,0 +1,75 @@
+{
+	"firstname": "Anton",
+	"lastname": "Klimovich",
+	"age": 29,
+	"education": "unevercity BSU",
+	"Expected Salary": 300"$",
+	"pets":
+	 [
+		{
+			"name": "zhuzha",
+			"type": "dog",
+			"age": 3,
+			"total amount": 1
+		}
+		
+		{
+			"name": "murka",
+			"type": "cat",
+			"age": 7,
+			"total amount": 1
+		}
+
+		{
+			"name": "zhorik",
+			"type": "bull",
+			"age": 1,
+			"total amount": 1
+		}
+	
+		{
+			"name": "zhu-zhu",
+			"type": "bee",
+			"age": 15,
+			"total amount": 47
+		}
+		
+	]
+	"transport": 
+	[
+		{
+			"type": "bikeсycle",
+			"model": [
+				"Stels",
+				"Orlenok",
+				"Java"
+			],
+			"total amount": 3
+		}
+
+		{
+			"type": "motorсycle",
+			"model":
+			 [
+				"SYM",
+				"Honda",
+				"Minsk",
+				"Kharcov"
+			],
+			"total amount": 4
+		}
+
+		{
+			"type": "automobile",
+			"model": 
+			[
+				"Honda",
+				"Lada",
+				"UAZ",
+				"Skoda",
+				"ZAZ"
+			],
+			"total amount": 5
+		}
+	]
+}
