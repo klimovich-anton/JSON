@@ -1,0 +1,105 @@
+{
+	"softskills": [
+		"communication skills",
+		"creativity",
+		"stress resistance",
+		"responsibility",
+		"curiosity",
+		"the ability to ask questions",
+		"the ability to adequately describe bugs",
+		"the ability to write algorithmically simple test cases",
+		"the ability to rank defects by importance",
+		"discipline"
+	],
+	"hardskills": [
+		{
+			"web": [
+				"html, css, web form testing, devtools"
+			]
+		},
+		{
+			"data base": "postgreeSQL"
+		},
+		{
+			"programming language": "basic java script"
+		},
+		{
+			"testing API": "postman"
+		},
+		{
+			"traffic interception": "charles"
+		},
+		{
+			"stress testing": "jmeter"
+		},
+		{
+			"writing test documentation": [
+				"checklists",
+				"test cases",
+				"bug reports"
+			]
+		},
+		{
+			"types of testing": [
+				{
+					"by code availability": [
+						"black box testing",
+						"grey box testing",
+						"white box testing"
+					]
+				},
+				{
+					"by object testing": [
+						"UI testing",
+						"localization testing",
+						"speed and stress and perfomance testing",
+						"security testing",
+						"UX testing",
+						"compatibility testing",
+						"functional testing"
+					]
+				},
+				{
+					"by positivity": [
+						"positive testing",
+						"negative testing"
+					]
+				},
+				{
+					"by time": [
+						"alpha testing",
+						"beta testing",
+						"smoke test",
+						"confidence test",
+						"new leature test",
+						"regression test",
+						"acceptanse test"
+					]
+				},
+				{
+					"by test levels": [
+						"component testing",
+						"integration test",
+						"system or end to end testing"
+					]
+				},
+				{
+					"by automation": [
+						"component testing",
+						"automation testing",
+						"semi automation testing"
+					]
+				},
+				{
+					"by degree of preparation": [
+						"documented testing",
+						"ad hoc testing"
+					]
+				},
+				{
+					"by subject": [
+						"alfa tester",
+						"beta-tester"
+					]
+				}
+			]
